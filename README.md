@@ -1,3 +1,3 @@
-hello world awesome !
+hello world awesome test !
 
-release 0.2 !
+release 0.3 !
