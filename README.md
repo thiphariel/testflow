@@ -1,3 +1,3 @@
 hello world awesome !
 
-release 0.1 !
+release 0.2 !
